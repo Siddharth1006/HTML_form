@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<center>
+<h1>EXPERIMENT PROJECT!!</h1>
+<marquee><head><B>ToCreateAForm</B></head></marquee></center> <br>
+
+<body background="img.jpg">
+<font size="6" color="Green" face="Comic Sans MS">
+This is an experiment! I am going to be creating a form on a HTML webpage. Let's see how it goes!
+
+<form><font size="4" color="Red" face="Lucida Sans Unicode">
+Name: <input type="text" name="FullName" value="Siddharth Soma"><br>
+Register Number: <input type="number" value="841975"><br>
+Section: 
+<select>
+  <option value="A">A</option>
+  <option value="B">B</option>
+  <option value="C">C</option>
+  <option value="D">D</option>
+  <option value="E">E</option>
+  <option value="F">F</option>
+  <option value="G">G</option>
+  <option value="H">H</option>
+  <option value="I">I</option>
+  <option value="J">J</option>
+  <option value="K">K</option>
+  <option value="L">L</option>
+  <option value="M">M</option>
+<option value="N">N</option>
+<option value="O">O</option>
+<option value="P">P</option>
+
+</select><br>
+Branch: 
+<select>
+  <option>Electronics and Communication Engineering</option>
+  <option value="CSE">Computer Science Engineering</option>
+  <option value="ME">Mechanical Engineering</option>
+  <option value="EEE">Electrical and Electronics Engineering</option>
+  <option value="CE">Civil Engineering</option>
+  <option value="ChE">Chemical Engineering</option>
+  <option value="MetE">Metallurgical Engineering</option>
+  <option value="BioTech">Biotechnology Engineering</option>
+  <option value="Phy">Department of Physics</option>
+  <option value="Chem">Department of Chemistry</option>
+  <option value="Mathematics">Department of Maths</option>
+  
+</select><br>
+</font>
+</form>
+</font>
+
+<br><font size="4" color="pink"><a href="expt2.html">PLEASE CLICK here!</a>
+</font>
+</body>
+
+</html>
